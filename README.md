@@ -6,11 +6,11 @@ we got 81% accuracy on the validation dataset.
 
 
 # Table of Contents
-- 1. Introduction
-- 2. Datasets
-- 3. Model Architecture
-- 4. Training
-- 5. Further Work
+- Introduction
+- Datasets
+- Model Architecture
+- Training
+- Further Work
 
 # Introduction
 Conv2D conducts convolution operations by sliding a filter over the input, producing a feature map matrix that highlights specific image features. 
