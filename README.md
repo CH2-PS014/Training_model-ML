@@ -42,7 +42,6 @@ in the dataset we have 12 labels, they are:
 9. Sate
 10. Telur Balado
 11. Tempe Bacem
-12. Tiramisu
 
 # Model Architecture
 
