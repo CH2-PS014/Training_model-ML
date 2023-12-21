@@ -30,7 +30,7 @@ you can download the dataset here:
 
 [Our Dataset](https://drive.google.com/drive/folders/1RbygN80QWnJcJtUYC8B2zAEg_1hskkfO?usp=sharing)
 
-in the dataset we have 12 labels, they are:
+in the dataset we have 11 labels, they are:
 1. Bakso
 2. Bika Ambon
 3. Dadar Gulung
